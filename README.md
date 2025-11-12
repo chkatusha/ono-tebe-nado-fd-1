@@ -1,1 +1,1 @@
-git@github.com:chkatusha/posmotri-v-okno-fd.git
+https://github.com/chkatusha/ono-tebe-nado-fd-1
